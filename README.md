@@ -1,9 +1,7 @@
 # Java Exceptions
-
 This repository contains my beginner-level practice on **Exception Handling in Java**.
 
 ## Objective
-
 The goal of this practice is to understand how Java handles errors and unexpected situations during program execution.
 
 I practiced:
