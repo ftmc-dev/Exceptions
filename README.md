@@ -110,5 +110,5 @@ This allows an application to describe specific business problems instead of rel
 
 The most important concept I learned is:
 
-> **`throw` is used to throw an exception, while `throws` is used to declare that a method may throw an exception.**
+**`throw` is used to throw an exception, while `throws` is used to declare that a method may throw an exception.**
 
